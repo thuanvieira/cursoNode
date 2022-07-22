@@ -1,0 +1,34 @@
+{
+  "name": "cursonodejs",
+  "version": "1.0.0",
+  "description": "Repositório do Curso NODEJS da HCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuanvieira/cursoNode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Thuan Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuanvieira/cursoNode/issues"
+  },
+  "homepage": "https://github.com/thuanvieira/cursoNode#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
